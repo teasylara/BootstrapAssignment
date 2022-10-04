@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:cornsilk !important;
+}
+
+.header {
+    background-color: yellow;
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+}
+
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width:100%;
+    background:yellow;
+ }
+
+ .card {
+    padding: 15px;
+    margin: 10px;
+ }
